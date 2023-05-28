@@ -1,9 +1,9 @@
 package Instrumento;
 
-public class Cuerda extends InstrumentoMusical {
+public class Percusion extends InstrumentoMusical {
     private String sonido;
 
-    public Cuerda(String nombre, String sonido){
+    public Percusion(String nombre, String sonido){
         super(nombre);
         this.sonido=sonido;
     }
@@ -11,5 +11,6 @@ public class Cuerda extends InstrumentoMusical {
     public void emitirsonido(){
         System.out.println("El instrumento llamado " + super.getNombre() + " hace " + sonido);
     }
-
+    
+        
 }
