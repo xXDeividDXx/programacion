@@ -1,3 +1,8 @@
+/* Integrantes del grupo:
+  -David Inostroza
+  -Sergei Igor
+  -Mauricio Huenchuan
+*/
 package Instrumento;
 
 public class Main {
