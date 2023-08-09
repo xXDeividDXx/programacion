@@ -21,5 +21,8 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢿⣦⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡏
 
-profe culiao hijo de la perra te voy a matar y voy a quemar esa universidad de mierda que me ha causado pura desgracia en mivida los ctmres de los funcionarios allá los voy a quemar y crucificar vivos porque son todos unos culios conchesumadres que se aprovechan de todo por la chucha
+profe culiao hijo de la perra te voy a matar conchetumare
+y voy a quemar esa universidad de mierda que me ha causado pura desgracia en mi vida
+los ctmres de los funcionarios allá los voy a quemar y crucificar vivos 
+porque son todos unos culios conchesumadres que se aprovechan de todo por la chucha
 \*⠀⠀⠀⠀⠀⠀⠀⠀
